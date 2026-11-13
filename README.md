@@ -20,4 +20,4 @@ Power BI, DAX, data modelling, data visualisation
 ## Data
 IBM HR Analytics Employee Attrition dataset (public)
 
-![Dashboard](hr-dashboard.png)
+![Dashboard](Screenshot.png)
